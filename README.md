@@ -50,5 +50,6 @@
 
 - 외래키는 외래키는 참조되는 테이블의 기본키와 동일한 키 속성을 가집니다
 
+
 ![image](https://user-images.githubusercontent.com/105910925/176596095-dc3560f1-8c26-44c3-a1e4-7b14dd7fda68.png)
 
